@@ -48,7 +48,7 @@ theme.
 }
 
 body {
-    font-family: 'Nunito', sans-serif;
+    font-family: "Source Sans Pro", sans-serif;;
     font-size: 25px;
     line-height: 1.2;
     /* color: #ffffff; */
@@ -125,7 +125,7 @@ img {
     font-size: 27px;
     line-height: 20px;
     font-weight: 700;
-    background: linear-gradient(180deg, rgba(224, 74, 15, 1) 0%, rgba(242, 134, 38, 1) 100%) !important;
+    background: linear-gradient(180deg, #0f4a99 0%, #1c90e0 100%) !important;
     padding: 23px 18px 16px 20px;
     display: block;
     border-bottom: 5px solid #e6944c;
@@ -393,7 +393,7 @@ video {
 
 .home-banner-left h3 {
     margin-top: 10px;
-    font-size: 24px;
+    font-size: 40px;
     line-height: 33px;
     font-weight: 700;
     color: #ffffff;
